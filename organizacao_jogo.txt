@@ -1,0 +1,35 @@
+organização do jogo: a hora kanban
+
+10:00 - 10 min para as diretrizes do jogo (slide 6,7,8 e 9)
+10:10 - inicia o jogo apenas com o slide 9 e 10
+10:15 - para o jogo  e faz a 1ª retrospectiva (slide 11)  analisa  os pontos, informa que a prioridade é o login e passa a lista com todas as histórias do projeto e o slide 15
+10:20 - 2ª etapa do jogo
+10:25 - para o jogo novamente e faz a 2ª retrospectiva. Pede para fazer o primeiro kanban e explica o slide 17 e 18
+10:30 - 3ª etapa do jogo
+10:35 - para o jogo novamente e faz a 3ª retrospectiva. Pede para priorizar, para criar a coluna de homologação e produção no kanban e para validar as histórias com o PO explica o slide 20 e 21
+10:40 - 4ª etapa do jogo (os que ja estao homologados pode ir para produção se tiver a release 1 pronta)
+10:45 - para o jogo novamente e faz a 4ª retrospectiva. Pede para priorizar e explica o slide 23 e 24
+10:50 - 5ª etapa do jogo (os que ja estao homologados pode ir para produção se tiver a release 1 ou 2 pronta)
+10:55 - para o jogo novamente e faz a 5ª retrospectiva final. (Pula os slides 25 e 26 e apresenta apenas o 27 )
+11:00 - acaba o jogo
+
+funcionalidades x releases
+release 1:
+login e a visualização
+
+release 2:
+criar perfil e editar
+
+release 3:
+busca de amigos
+
+
+turma: 8 pessoas - 2 grupos de 4 pessoas
+
+separar:
+- fichas pautadas (2 tipos: uma pra entidade e uma para caso de teste)
+- folha sulfite (para fazer o layout)
+- imprimir os backlogs
+- post-it grande
+
+
